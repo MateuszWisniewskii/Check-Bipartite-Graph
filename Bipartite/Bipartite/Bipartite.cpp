@@ -1,28 +1,42 @@
 ﻿// Bipartite.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
 //
 
-#include <iostream>
-#include <fstream>
-#include <string>
+#include "Functions.h"
 
 int main()
 {
-    std::ifstream plik;
-    plik.open("../../test_files_2/test1.txt");
-    if (!plik.good())
-    {
-        std::cout << "Nie udało się otworzyć pliku" << std::endl;
-    }
-    else
-    {
-        std::string linijka;
-        while (std::getline(plik, linijka))
-        {
-            std::cout << linijka << std::endl;
-        }
-        plik.close();
-        std::cout << "Odczyt pliku powiódł się" << std::endl;
-    }
+
+
+    //std::map<int, int> mapa = { {2,9} };
+
+    //mapa.insert({1,1});
+
+    //for (std::pair<int,int> i : mapa)
+    //{
+    //    std::cout << "key == " << i.first << " and value == " << i.second << std::endl;
+    //}
+    //std::cout << mapa.at(1) << std::endl;
+
+    
+
+
+
+    //std::ifstream plik;
+    //plik.open("../../test_files_2/test1.txt");
+    //if (!plik.good())
+    //{
+    //    std::cout << "Nie udało się otworzyć pliku" << std::endl;
+    //}
+    //else
+    //{
+    //    std::string linijka;
+    //    while (std::getline(plik, linijka))
+    //    {
+    //        std::cout << linijka << std::endl;
+    //    }
+    //    plik.close();
+    //    std::cout << "Odczyt pliku powiódł się" << std::endl;
+    //}
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania

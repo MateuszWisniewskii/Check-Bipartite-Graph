@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Bipartite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|solutionrelative:Bipartite\\Bipartite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|solutionrelative:Bipartite\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16281104-0869-49AD-84FC-8BA8735FFA9D}|Bipartite\\Bipartite.vcxproj|solutionrelative:Bipartite\\Structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Structures.h",
+              "DocumentMoniker": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Structures.h",
+              "RelativeDocumentMoniker": "Bipartite\\Structures.h",
+              "ToolTip": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Structures.h*",
+              "RelativeToolTip": "Bipartite\\Structures.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T09:12:00.11Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.h",
+              "DocumentMoniker": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Functions.h",
+              "RelativeDocumentMoniker": "Bipartite\\Functions.h",
+              "ToolTip": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Functions.h",
+              "RelativeToolTip": "Bipartite\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T17:26:19.843Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bipartite.cpp",
               "DocumentMoniker": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Bipartite.cpp",
               "RelativeDocumentMoniker": "Bipartite\\Bipartite.cpp",
-              "ToolTip": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Bipartite.cpp*",
-              "RelativeToolTip": "Bipartite\\Bipartite.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\STUDIA\\Repozytoria\\Check-Bipartite-Graph\\Bipartite\\Bipartite\\Bipartite.cpp",
+              "RelativeToolTip": "Bipartite\\Bipartite.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-05T10:30:08.617Z",
               "EditorCaption": ""
