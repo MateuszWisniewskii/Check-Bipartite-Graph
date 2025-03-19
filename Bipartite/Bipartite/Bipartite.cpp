@@ -5,6 +5,20 @@
 
 int main()
 {
+    std::string filePath;
+    std::cout << "Witaj :)" << std::endl;
+    std::cout << "Podaj sciezke do pliku tekstowego z grafem: ";
+    std::cin >> filePath;
+    std::ifstream inputFile;
+
+    if (!inputFile.good())
+    {
+        std::cout << "Nie udalo sie otworzyc pliku" << std::endl;
+    }
+    else
+    {
+        std::cout << "Plik zostal otworzony" << std::endl;
+    }
 
 
     //std::map<int, int> mapa = { {2,9} };
